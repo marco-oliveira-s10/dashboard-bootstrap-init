@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "João da Silva",
+        "email": "joao.silva@example.com",
+        "phone": "11987654321",
+        "cep": "01000-000",
+        "neighborhood": "Centro",
+        "city": "São Paulo",
+        "state": "SP",
+        "country": "Brasil",
+        "gender": "masculino",
+        "type": "admin",
+        "password": "senha123"
+    },
+    {
+        "id": 2,
+        "name": "Maria Oliveira",
+        "email": "maria.oliveira@example.com",
+        "phone": "21987654321",
+        "cep": "02000-000",
+        "neighborhood": "Jardim",
+        "city": "Rio de Janeiro",
+        "state": "RJ",
+        "country": "Brasil",
+        "gender": "feminino",
+        "type": "comum",
+        "password": "senha456"
+    },
+    {
+        "id": 3,
+        "name": "Carlos Souza",
+        "email": "carlos.souza@example.com",
+        "phone": "31987654321",
+        "cep": "03000-000",
+        "neighborhood": "Bela Vista",
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "country": "Brasil",
+        "gender": "masculino",
+        "type": "comum",
+        "password": "senha789"
+    },
+    {
+        "id": 4,
+        "name": "Ana Lima",
+        "email": "ana.lima@example.com",
+        "phone": "41987654321",
+        "cep": "04000-000",
+        "neighborhood": "Pinheiros",
+        "city": "Curitiba",
+        "state": "PR",
+        "country": "Brasil",
+        "gender": "feminino",
+        "type": "admin",
+        "password": "senha101"
+    },
+    {
+        "id": 5,
+        "name": "Lucas Almeida",
+        "email": "lucas.almeida@example.com",
+        "phone": "51987654321",
+        "cep": "05000-000",
+        "neighborhood": "Centro",
+        "city": "Porto Alegre",
+        "state": "RS",
+        "country": "Brasil",
+        "gender": "masculino",
+        "type": "comum",
+        "password": "senha202"
+    }
+]
