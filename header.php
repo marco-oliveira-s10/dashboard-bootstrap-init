@@ -3,6 +3,7 @@
 
 <head>
     <script src="/assets/js/color-modes.js"></script>
+    <script src="/assets/js/jquery-3.7.1.min.js"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
@@ -167,15 +168,7 @@
                     <div class="offcanvas-body d-md-flex flex-column p-0 pt-lg-3 overflow-y-auto">
                         <ul class="nav flex-column">
                             <li class="nav-item">
-                                <a class="nav-link d-flex align-items-center gap-2 active" aria-current="page" href="index.php">
-                                    <svg class="bi">
-                                        <use xlink:href="#house-fill" />
-                                    </svg>
-                                    Dashboard
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link d-flex align-items-center gap-2" href="products.php">
+                                <a class="nav-link d-flex align-items-center gap-2" href="index.php">
                                     <svg class="bi">
                                         <use xlink:href="#cart" />
                                     </svg>
